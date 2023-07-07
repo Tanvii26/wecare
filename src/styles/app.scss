@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Open+Sans&family=Overpass+Mono&family=Fasthand:wght@300;400&display=swap');
+
+@import "statics";
+@import "animations";
+@import "header";
+@import "home";
+@import "activities";
+@import "footer";
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: $text1;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    overflow-x: hidden;
+}

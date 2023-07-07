@@ -1,0 +1,2 @@
+## Welcome to WeCare,
+ your all-in-one app designed to support your mental health journey. We understand that mental well-being is crucial for leading a fulfilling and balanced life, and that's why we've created this powerful tool to help you prioritize your mental health, develop healthy habits, and enhance your overall well-being.

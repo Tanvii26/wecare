@@ -1,0 +1,116 @@
+#activities{
+    width: 100%;
+    height: 100vh;
+    padding: 3rem $p;
+    >h2{
+        font: 700 2.5rem $text4;
+        width: fit-content;
+        // padding: 0.5rem;
+        margin: auto;
+    }
+
+
+    >section{
+        // margin-top: 10px;
+        width: 100%;
+        height: 95%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(204, 226, 245);
+        border-radius: 20px;
+        box-shadow: 0 0 20px 5px rgb(108, 181, 244);
+        
+        >article{
+            width: 80%;
+            height: 29vmax;        
+        }
+        
+        .item{
+            overflow-y: auto;
+            height: 29vmax;
+            width: 95%;
+            margin: auto;
+            display: flex;
+            padding: 2rem;
+        
+            >img{
+                width: 40%;
+                object-fit: cover;
+            }
+            
+            >aside{
+                width: 60%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                
+                >p{
+                    letter-spacing: 3px;
+                    line-height: 180%;
+                    margin: 2rem;
+                }
+            }
+        }
+    }
+   
+}
+
+#testimonial{
+    width: 100%;
+    padding: 25px;
+    background-color: white;
+    margin-top: 3rem;
+    >h2{
+        font: 700 2.5rem $text4;
+        text-align: center;
+    }
+    
+    >section{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 90%;
+        height: 30rem;
+        margin: auto;
+        padding: 6rem;
+        gap: 20px;
+        background-color: rgb(204, 226, 245);
+        border-radius: 20px;
+        
+
+        >article{
+            height: 100%;
+            width: 30%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            position: relative;
+            border-radius: 20px;
+        
+            img {
+                top: 0%;
+                position: absolute;
+                width: 100px;
+                height: 100px;
+                object-fit: contain;
+                border-radius: 50%;
+                transform: translateY(-50%);
+              }
+        
+              p {
+                letter-spacing: 2px;
+                margin: 20px 0;
+                font-size: 0.9rem;
+                line-height: 160%;
+                text-align: center;
+                overflow: hidden;
+              }
+        }
+    }
+}
+
+

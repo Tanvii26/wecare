@@ -1,0 +1,28 @@
+{
+    "projects": [
+      {
+        "title": "Meditate for Peace!",
+        "description": " Open mind and clear focus for inner peace. Train your brain to experience the present without regretting the past or fearing the future.",
+        "imgSrc": "https://img.freepik.com/free-vector/flat-business-person-meditating_23-2148917427.jpg?w=740&t=st=1680163399~exp=1680163999~hmac=5fd53e805c5173c7c9f4d5f15711987970cb65cf3a882d0d90316eb83fd709ad"
+      },
+  
+      {
+        "title": "Music for happiness!",
+        "description": "Music holds the power to transform your state of mind. The lyrics relate to your experiences, improves mood with amplified 'Happy Hormone' production.",
+        "imgSrc": "https://img.freepik.com/free-vector/headphone-concept-illustration_114360-2222.jpg?w=740&t=st=1680163513~exp=1680164113~hmac=b80d1811aa1e0350e1b87a0d80a77566e7472e976f06e3747027360fc5c59900"
+      },
+
+      {
+        "title": "Healthy Body",
+        "description": "Tackling challenges of the world just like lifting barbells. Challenges don't increase heart rate anymore the way intense workout does.",
+        "imgSrc": "https://img.freepik.com/free-vector/workout-concept-illustration_114360-1120.jpg?w=740&t=st=1680163476~exp=1680164076~hmac=80e22f5020c349f8be5a808176d523a70cd54cb796ba5325281e52034c9a6386"
+      },
+  
+      {
+        "title": "Healthy Mind",
+        "description": "Improve communication and learning, attention and memory. Forget stress for light-hearted focus and joy.",
+        "imgSrc": "https://img.freepik.com/free-vector/brain-sides-concept-illustration_114360-13064.jpg?w=740&t=st=1680163445~exp=1680164045~hmac=c34311044c5fc925a7f58a22baf339abf77004cf524519b0f466643221789d57"
+      }
+      
+    ]
+  }
